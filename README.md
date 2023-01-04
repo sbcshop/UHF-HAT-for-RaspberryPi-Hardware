@@ -5,9 +5,9 @@ UHF HAT for Raspberry Pi is an advanced and compact "Ultra High Frequency" RFID 
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/USB-RTC-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* [**/Design Data**](https://github.com/sbcshop/USB-RTC-Hardware/tree/main/Design_Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/USB-RTC-Hardware/tree/main/Mechanical_Data) - This directory contains 3D and STEP files
+* [**/Documents**](https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
 
 ## Documentation
