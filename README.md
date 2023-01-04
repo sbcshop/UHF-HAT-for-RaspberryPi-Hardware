@@ -1,1 +1,1 @@
-# UHF-HAT-for-RaspberryPi-Hardware
+# UHF HAT for RaspberryPi Hardware
