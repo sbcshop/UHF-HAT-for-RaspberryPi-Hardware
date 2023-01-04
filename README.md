@@ -12,7 +12,7 @@ UHF HAT for Raspberry Pi is an advanced and compact "Ultra High Frequency" RFID 
 
 ## Documentation
 
-* [PiTalk-4G HAT Hardware](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware)
+* [UHF HAT For RaspberryPi Software](https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Software)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
